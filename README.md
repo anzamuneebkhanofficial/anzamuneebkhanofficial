@@ -1,163 +1,79 @@
-![Design and Development](https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg)
+<div align="center">
+  <a href="https://yourcompanywebsite.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg" alt="Muhammad Anza Muneeb Khan Banner" width="100%" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
   <h1>👋 Hi, I'm Muhammad Anza Muneeb Khan</h1>
-  <h3>❂ Full Stack Developer | MERN Stack Expert | Software Engineer</h3>
+  <h3>Full Stack Developer | MERN Stack Developer | Web Developer</h3>
+  <p>I build fast, scalable, and modern web and mobile applications.</p>
   
   <a href="https://yourcompanywebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FDC700" height="35" alt="Portfolio" />
   </a>
 </div>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+and+Mobile+Apps;Crafting+Modern+UI+with+React+and+TailwindCSS;API+Development+%26+Third-Party+Integration;Performance+Optimization+%26+Bug+Fixing;Delivering+End-to-End+MERN+Solutions;Cloud+Deployment+on+AWS+%26+Vercel" 
-    alt="Typing Animation" 
-  />
-</p>
+---
+
+## 🚀 Featured Engineering & Projects
+
 
 ---
 
-## 📜 About Me
-I’m a Lahore-based **Full-Stack Software Engineer** specializing in **modern, scalable web & mobile applications**.  
-From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN solutions** for businesses and startups.  
-
-🎓 **Education:** BS in Information Technology – Punjab University  
-💼 **Current Focus:** Building high-performance applications for clients worldwide.  
-
-➡️ **View my work here:** [🌐 My Portfolio](https://yourcompanywebsite.com)
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Frameworks
+## 🛠 Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js 15" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
+  <a href="https://github.com/muhammadanzamuneebkhan?tab=repositories" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,express,mongodb,react,css,tailwind,html,github,docker,vercel,firebase,appwrite,aws&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
 
-### 🔧 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="Appwrite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Hostinger-%23633E95.svg?style=for-the-badge&logo=hostinger&logoColor=white" height="40" alt="Hostinger" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=devto" height="40" alt="Developer Tools" />
-</p>
+---
+
+## 📊 Real-Time GitHub Stats
+<div align="center">
+  <a href="https://github.com/muhammadanzamuneebkhan?tab=repositories" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadanzamuneebkhan&theme=dark&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true&title_color=FDC700&icon_color=FDC700" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/muhammadanzamuneebkhan" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanzamuneebkhan&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&title_color=FDC700" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Live Achievements & Trophies
 <div align="center">
-  <a href="https://www.facebook.com/muhammadanzamuneebkhan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
+  <a href="https://github.com/muhammadanzamuneebkhan" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammadanzamuneebkhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
-  <a href="https://www.tiktok.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="TikTok" />
-  </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
+</div>
+
+---
+
+## 🌐 Contact & Connect
+<div align="center">
   <a href="https://pk.linkedin.com/in/muhammadanzamuneebkhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-<a href="https://wa.me/923334098558" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" 
-    height="35" 
-    alt="WhatsApp" 
-  />
-</a>
-<a href="mailto:anzamuneebkhan13@gmail.com" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
-    height="35" 
-    alt="Gmail" 
-  />
-</a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
+  <a href="mailto:anzamuneebkhan13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email_Me&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/923334098558" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
   </a>
   <a href="https://x.com/manzamuneeb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/users/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+    <img src="https://img.shields.io/static/v1?message=Twitter_X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
   </a>
 </div>
 
----
+<br />
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&layout=compact" />
+  <p><i>"Don’t waste time—every moment counts."</i></p>
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=muhammadanzamuneebkhan&icon=0&color=0" alt="Profile Views" />
+  </a>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadanzamuneebkhan&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
-## 🪙 Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img height="28" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ko-fi.com/yourusername">
-    <img height="28" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.patreon.com/yourusername">
-    <img height="28" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.payoneer.com/">
-    <img height="28" src="https://img.shields.io/badge/Payoneer-FF4800?style=for-the-badge&logo=payoneer&logoColor=white" alt="Payoneer">
-  </a>
-</p>
-
----
-
-## 🧠 My Guiding Quote
-> "What you want in life is often desired by many others too. But in the race toward that goal, only those who move with speed, focus, and persistence will reach it first. Don’t waste time—every moment counts." – *Muhammad Anza Muneeb Khan*  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=muhammadanzamuneebkhan&icon=0&color=0)](https://visitcount.itsvg.in)
