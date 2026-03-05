@@ -42,45 +42,22 @@ I am a Web Developer focused on web development. I specialize in taking projects
 - 🎓 **Education:** Diploma of Associate Engineering (DAE) in Information Technology (a 3-year practical IT program) at Pak Polytechnic Institute, Lahore
 - 🤝 **Open to:** Collaborations, Web Development, Freelance
 
-## 🚀 Featured Engineering & Projects
+## 📌 Featured Engineering & Projects
 
-_Here are a few select projects that showcase my technical abilities and problem-solving skills._
+_Here are my top projects showcasing my technical abilities, system design, and problem-solving skills._
 
-| Project Name | Description | Tech Stack | Links |
+| Project Details | Description & Impact | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Coming Soon]** | No project available right now. I am currently building new things to showcase here. | `MERN` `Next.js` | [Live Demo](#) • [Source Code](#) |
-| **[Coming Soon]** | No project available right now. I will update this section very soon. | `React` `Node.js` | [Live Demo](#) • [Source Code](#) |
-| **[Coming Soon]** | No project available right now. Stay tuned for updates! | `TypeScript` `Express` | [Live Demo](#) • [Source Code](#) |
+| **[The Kaptaan Legacy](https://the-kaptaan-legacy.vercel.app)** <br/> *Web Application* | The definitive, AI-verified digital biography of Imran Khan. Features a built-in AI Fact Vault powered by dual-engine architecture (Google Gemini → Groq LLaMA failover) to counter fragmented, biased sources with real-time fact-checking. | `React 19` `Vite` `Tailwind v4` `Gemini AI` `Groq API` | [🌍 Live Demo](https://the-kaptaan-legacy.vercel.app) <br/> [💻 Source Code](https://github.com/anzamuneebkhanofficial/the-kaptaan-legacy) |
+| **[Universal QR Hub](https://universal-qr-hub.vercel.app)** <br/> *Web Utility / PWA* | A premium, zero-knowledge architecture application for generating professional QR codes entirely within the browser. Ensures complete data privacy for PII, banking details, and crypto addresses without relying on external tracking servers. | `Next.js` `React 18` `Tailwind CSS` `qrcode` `next-pwa` | [🌍 Live Demo](https://universal-qr-hub.vercel.app) <br/> [💻 Source Code](https://github.com/anzamuneebkhanofficial/universal-qr-hub) |
 
-> **Note:** _Check out my repositories._
+> **Note:** _Check out my repositories below for a complete view of my open-source work._
 
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
   <a href="https://github.com/anzamuneebkhanofficial?tab=repositories" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,express,mongodb,react,css,tailwind,html,github,docker,vercel,firebase,appwrite,aws&theme=dark" alt="Tech Stack" />
-  </a>
-</div>
-
-## 📊 Real-Time GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/anzamuneebkhanofficial" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=anzamuneebkhanofficial&theme=dark&bg_color=0D1117&hide_border=true&show_icons=true&count_private=true&title_color=FDC700&icon_color=FDC700&v=1" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/anzamuneebkhanofficial" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anzamuneebkhanofficial&theme=dark&background=0D1117&hide_border=true&stroke=FDC700&ring=FDC700&fire=FDC700&currStreakLabel=FDC700&v=1" alt="GitHub Streak" width="48%" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/anzamuneebkhanofficial" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzamuneebkhanofficial&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&title_color=FDC700&v=1" alt="Top Languages" width="48%" />
-  </a>
-  <a href="https://github.com/anzamuneebkhanofficial" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=anzamuneebkhanofficial&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&v=1" alt="GitHub Trophies" width="48%" />
   </a>
 </div>
 
