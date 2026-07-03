@@ -3,16 +3,14 @@
     <img src="https://raw.githubusercontent.com/anzamuneebkhanofficial/anzamuneebkhanofficial/master/githubbanner.jpg" alt="Muhammad Anza Muneeb Khan" width="100%" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">
 
 ## Muhammad Anza Muneeb Khan
+**Full-Stack Developer · MERN & NestJS · TypeScript · AI Integrations · Multi-Cloud Deployment · Lahore, Pakistan**
 
-**Full-Stack Developer · MERN Stack · AI Integrations · Lahore, Pakistan**
-
-Building production-ready web applications from REST APIs to AI-powered user experiences.
+Building production-ready web applications from typed, layered backends to AI-powered user experiences, shipped on the cloud platform that fits the job.
 
 <br/>
 
@@ -29,28 +27,38 @@ Building production-ready web applications from REST APIs to AI-powered user exp
 
 ## About
 
-Full-Stack MERN Developer with 4+ years of experience building and deploying web applications across freelance, remote contract, and internship settings. I specialize in scalable REST APIs, Next.js App Router architecture, and dual-provider AI integrations (Google Gemini + Groq).
+Full-Stack Developer with 4+ years of experience designing and shipping web applications across freelance, remote-contract, and internship settings. I build typed, layered backends with **Express.js and NestJS**, ship frontends in **React and Next.js (App Router)**, and integrate dual-provider AI (Google Gemini + Groq) into real product features rather than demos.
 
-Currently completing a BSIT at the University of the Punjab while shipping [Unity Drop](https://github.com/anzamuneebkhanofficial/unity-drop) - an AI-powered Blood Donation Management System - as my Final Year Project.
+I follow deliberate project architecture on every build MVC/layered structure for smaller services, feature-based folder structure for larger ones and containerize with **Docker** where the project calls for it.
 
-**Open to full-time roles, remote contracts, and freelance work.**
+Deployment is a core strength, not an afterthought: I've shipped frontend, backend, and full-stack apps on **Vercel, Render, Railway, Cloudflare Pages & Workers, DigitalOcean App Platform, AWS Amplify, and Azure Static Web Apps/App Service**, with CI/CD pipelines via GitHub Actions.
+
+Currently completing a BSIT at the University of the Punjab while having shipped [Unity Drop](https://github.com/anzamuneebkhanofficial/unity-drop) an AI-powered Blood Donation Management System as my Final Year Project.
+
+**Open to full-time Junior/Mid roles, remote contracts, and freelance work.**
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,mongodb,tailwind,html,css&theme=dark" alt="Core" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,nestjs,express,mongodb,tailwind,html,css&theme=dark" alt="Core" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=github,docker,vercel,firebase,aws,appwrite&theme=dark" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=prisma,docker,github,vercel,cloudflare,aws,azure,firebase,appwrite&theme=dark" alt="Tools & Cloud" />
 </div>
+
+**Frontend** - React.js, Next.js (App Router), TypeScript, Tailwind CSS
+**Backend** - Node.js, Express.js, NestJS, REST APIs, JWT & OTP Auth, Prisma ORM, Mongoose
+**Database** - MongoDB, Firebase, Appwrite
+**DevOps & Cloud** - Docker, GitHub Actions (CI/CD), Vercel, Render, Railway, Cloudflare Pages/Workers, DigitalOcean App Platform, AWS Amplify, Azure Static Web Apps/App Service
+**AI** - Google Gemini API, Groq API - dual-provider integrations with automatic failover
 
 ---
 
 ## Featured Projects
 
 **[Unity Drop](https://github.com/anzamuneebkhanofficial/unity-drop)** - *Final Year Project*
-> AI-powered Blood Donation Management System. Real-time patient–donor matching via a dual-AI engine (Gemini → Groq failover), role-based dashboards, JWT + OTP auth, and spam protection.
+> AI-powered Blood Donation Management System. Real-time patient–donor matching via a dual-AI engine (Gemini → Groq failover) that scores donor suitability from live database records, role-based dashboards (Donor/Patient/Admin/Super Admin), JWT + OTP auth, and spam protection.
 >
 > `Next.js` `Express.js` `MongoDB` `Gemini AI` `Groq API` `Tailwind CSS`
 
@@ -64,7 +72,7 @@ Currently completing a BSIT at the University of the Punjab while shipping [Unit
 <br/>
 
 **[Universal QR Hub](https://universal-qr-hub.vercel.app)** - [Code](https://github.com/anzamuneebkhanofficial/universal-qr-hub)
-> Zero-knowledge QR code generator PWA. Runs entirely client-side - no data stored or transmitted to any server.
+> Zero-knowledge QR code generator PWA. Runs entirely client-side — no data stored or transmitted to any server.
 >
 > `Next.js` `React` `Tailwind CSS` `next-pwa`
 
