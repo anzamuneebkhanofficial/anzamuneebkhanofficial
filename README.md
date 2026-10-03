@@ -54,4 +54,4 @@ Six industry-standard, full-stack systems. Each one starts from a real problem.
 Open to freelance projects, collaborations and full-time opportunities. Message me on LinkedIn or by email. I reply quickly.
 
 📧 [anzamuneebkhan13@gmail.com](mailto:anzamuneebkhan13@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/anzamuneebkhanofficial) · 🐙 [GitHub](https://github.com/anzamuneebkhanofficial) · 🎥 [YouTube](https://youtube.com/@anzamuneebkhanofficial) · 📸 [Instagram](https://www.instagram.com/anzamuneebkhanofficial) · 🐦 [X](https://x.com/anzamuneebkhan) · 👍 [Facebook](https://www.facebook.com/anzamuneebkhanofficial/)
+💼 [LinkedIn](https://www.linkedin.com/in/anzamuneebkhanofficial) · 🐙 [GitHub](https://github.com/anzamuneebkhanofficial) · 📸 [Instagram](https://www.instagram.com/anzamuneebkhanofficial) · 🐦 [X](https://x.com/anzamuneebkhan) · 👍 [Facebook](https://www.facebook.com/anzamuneebkhanofficial/)
