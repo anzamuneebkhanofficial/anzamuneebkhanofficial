@@ -10,7 +10,6 @@
 
 I build production-ready web platforms: AI products, multi-tenant SaaS, payments, marketplaces and developer tools.
 
-
 </div>
 
 ---
@@ -20,6 +19,14 @@ I build production-ready web platforms: AI products, multi-tenant SaaS, payments
 This is my personal portfolio. Visit it to see my projects running live, with deployment links and details:
 
 **👉 [muhammadanzamuneebkhan.vercel.app](https://muhammadanzamuneebkhan.vercel.app)**
+
+---
+
+## 📝 Read My Story
+
+I wrote a full article about my journey, my six flagship projects, and how I build software.
+
+**👉 [Read on Medium](https://medium.com/@anzamuneebkhanofficial/about-me-muhammad-anza-muneeb-khan-full-stack-developer-from-lahore-677f98200c75)** · **[Read on Dev.to](https://dev.to/anzamuneebkhanofficial/about-me-muhammad-anza-muneeb-khan-full-stack-developer-from-lahore-2i2p)**
 
 ---
 
