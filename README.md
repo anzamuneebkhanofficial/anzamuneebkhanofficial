@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://muhammadanzamuneebkhan.vercel.app">
-  <img src="https://raw.githubusercontent.com/anzamuneebkhanofficial/anzamuneebkhanofficial/master/githubbanner.jpg" alt="Muhammad Anza Muneeb Khan" width="100%" />
+  <img src="https://raw.githubusercontent.com/anzamuneebkhanofficial/anzamuneebkhanofficial/master/appgithubbanner.png" alt="Muhammad Anza Muneeb Khan" width="100%" />
 </a>
 
 # Muhammad Anza Muneeb Khan
